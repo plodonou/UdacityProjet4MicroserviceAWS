@@ -4,8 +4,7 @@ jobs:
     docker:
       # Use the same Docker base as the project
       - image: python:3.7.3-stretch
-    working_directory: ~/UdacityProjet4MicroserviceAWS
-    steps:
+    working_directory: ~/repo
       - checkout
 
       # Download and cache dependencies
@@ -19,6 +18,7 @@ jobs:
           name: install dependencies
           command: |
             which python3 
+            python3 -m pip install virtualenv
             python3 -m venv venv
             . venv/bin/activate
             make install
