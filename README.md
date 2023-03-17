@@ -1,5 +1,5 @@
 <include a CircleCI status badge, here>
-[![CircleCI](https://circleci.com/gh/circleci/UdacityProjet4MicroserviceAWS.svg?style=svg)](https://circleci.com/gh/circleci/UdacityProject4MicroserviceAWS)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/plodonou/UdacityProjet4MicroserviceAWS/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/plodonou/UdacityProjet4MicroserviceAWS/tree/master)
 
 ## Project Overview
 
