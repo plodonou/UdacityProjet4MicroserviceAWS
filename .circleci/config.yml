@@ -20,7 +20,7 @@ jobs:
           command: |
             which python3 
             python3 -m pip install virtualenv
-            python3 -m venv venv
+            python3 -m virtualenv venv
             . venv/bin/activate
             make install
             # Install hadolint
