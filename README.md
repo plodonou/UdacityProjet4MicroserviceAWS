@@ -54,10 +54,10 @@ source .devops/bin/activate
 ##Cloning a Repository
 To clone this repository from a command line or terminal, you should navigate to a directory where you want to save this repository (I often use my Desktop) and then copy-paste this command:
 
-git clone https://github.com/plodonou/UdacityProjet4MicroserviceAWS.git
+`git clone` https://github.com/plodonou/UdacityProjet4MicroserviceAWS.git
 
 ### Then navigate to the downloaded project directory using two more commands, in order:
 
-cd UdacityProjet4MicroserviceAWS
+cd `UdacityProjet4MicroserviceAWS`
 
 ### This should get you into the main working project directory that has all the starter files. You can test that you are in the correct directory by seeing if you can access one of the project files from the command line. You can type cat Makefile to see the starting Makefile in the project directory, for example.
