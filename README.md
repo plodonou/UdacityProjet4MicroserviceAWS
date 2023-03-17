@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/plodonou/UdacityProjet4MicroserviceAWS/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/plodonou/UdacityProjet4MicroserviceAWS/tree/master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/plodonou/UdacityProjet4MicroserviceAWS/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/plodonou/UdacityProjet4MicroserviceAWS/tree/main)
 
 ## Project Overview
 
